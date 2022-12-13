@@ -1,0 +1,65 @@
+{
+  "e-goals": [
+    {
+      "id": 1,
+      "name": "Cube projector",
+      "status": "ACCEPTED",
+      "detail": "detail is the description of the goal",
+      "employerId": 2
+    },
+    {
+      "id": 2,
+      "name": "Original Xiaomi Mi Backpack Urban Life Style Shoulders",
+      "status": "REJECTED",
+      "detail": "detail should not be empty",
+      "employerId": 1
+    },
+    {
+      "id": 3,
+      "name": "test video 2021 tshirt white",
+      "status": "PENDING",
+      "detail": "some testing to test the detail",
+      "employerId": 1
+    },
+    {
+      "status": "ACCEPTED",
+      "detail": "test some new goal",
+      "name": "new goal",
+      "id": 4,
+      "employerId": 2
+    },
+    {
+      "employerId": 2,
+      "detail": "Goal card with pending status",
+      "name": "Test",
+      "status": "PENDING",
+      "id": 7
+    }
+  ],
+  "er-goals": [
+    {
+      "id": 3,
+      "name": "test video 2021 tshirt white",
+      "status": "PENDING",
+      "detail": "some testing to test the detail",
+      "employerId": 1
+    },
+    {
+      "status": "ACCEPTED",
+      "detail": "test some new goal",
+      "name": "new goal",
+      "id": 4,
+      "employerId": 2
+    }
+  ],
+  "employers": [
+    {
+      "id": 1,
+      "name": "Gurgen"
+    },
+    {
+      "id": 2,
+      "name": "Anna"
+    }
+  ]
+}
